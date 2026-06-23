@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cats & Dogs — Abstract Board Game
 
 A browser-based abstract board game built with vanilla JavaScript, HTML and CSS. The game features a turn-based system, move validation rules, and a simple AI opponent with adjustable difficulty.
@@ -115,3 +116,7 @@ This project was built as a learning exercise in:
 - DOM manipulation
 - Basic AI decision systems
 - UI state management
+=======
+# cats-and-dogs
+A browser-based abstract board game built with vanilla JavaScript, HTML and CSS. The game features a turn-based system, move validation rules, and a simple AI opponent with adjustable difficulty.
+>>>>>>> e6f3678639f0d9f8f52a0bb955eaedcc43f2476a
